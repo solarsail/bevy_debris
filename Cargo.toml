@@ -9,4 +9,7 @@ default-run = "bevy_debris"
 
 [dependencies]
 bevy = "0.3"
+bevy_prototype_lyon = "0.1.2"
 hexasphere = "1.0"
+ordered-float = "2.0.0"
+rand = "0.7.3"
